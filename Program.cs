@@ -65,7 +65,7 @@ namespace Esimerkki
             Console.WriteLine("Laitteen ostohinta oli: " + laite.Hinta + " euroa");
             Console.WriteLine("Laitteen takuuaika: " + laite.Takuu + " kuukautta");
 
-
+            // Lisätty rivi pitämään ikkuna auki
             Console.ReadLine();
         }
     }
